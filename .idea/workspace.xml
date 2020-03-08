@@ -24,6 +24,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jRevaj &lt;jrevaj@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WkoY08nBgxUlvYHNHEEIYfdp2V" />
@@ -92,13 +97,22 @@
       <workItem from="1581352289730" duration="1091000" />
       <workItem from="1582559594109" duration="1211000" />
       <workItem from="1583666818399" duration="429000" />
+      <workItem from="1583667367839" duration="285000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="274" y="42" key="#Deployment" timestamp="1583667616291">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="274" y="42" key="#Deployment/0.0.1366.768/-295.-1080.1920.1080@0.0.1366.768" timestamp="1583667616291" />
     <state x="363" y="120" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583667229378">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -107,6 +121,10 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="750" y="135" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.768@0.0.1360.768" timestamp="1579707088252" />
+    <state x="267" y="0" key="CommitChangelistDialog2" timestamp="1583667664805">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="267" y="0" key="CommitChangelistDialog2/0.0.1366.768/-295.-1080.1920.1080@0.0.1366.768" timestamp="1583667664805" />
     <state width="656" height="173" key="GridCell.Tab.0.bottom" timestamp="1579734837122">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
@@ -127,5 +145,9 @@
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1360.768@0.0.1360.768" timestamp="1581352489690" />
+    <state x="0" y="0" key="Vcs.Push.Dialog.v2" timestamp="1583667694980">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" key="Vcs.Push.Dialog.v2/0.0.1366.768/-295.-1080.1920.1080@0.0.1366.768" timestamp="1583667694980" />
   </component>
 </project>
