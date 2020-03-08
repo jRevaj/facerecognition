@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05932696-5e85-4f91-8f7f-bc3433104532" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/imagelinkform/imagelinkform.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/imagelinkform/imagelinkform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/logo/brain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/logo/logo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/logo/logo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navigation/navigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/rank/rank.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,8 +83,16 @@
       <workItem from="1581352289730" duration="1091000" />
       <workItem from="1582559594109" duration="1211000" />
       <workItem from="1583666818399" duration="429000" />
-      <workItem from="1583667367839" duration="285000" />
+      <workItem from="1583667367839" duration="937000" />
     </task>
+    <task id="LOCAL-00001" summary="upload">
+      <created>1583667676930</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583667676930</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
