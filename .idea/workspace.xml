@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05932696-5e85-4f91-8f7f-bc3433104532" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/facerecognition/facerecognition.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/facerecognition/facerecognition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/register/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/signin/signin.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/imagelinkform/imagelinkform.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/imagelinkform/imagelinkform.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navigation/navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navigation/navigation.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +42,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -83,7 +92,7 @@
       <workItem from="1581352289730" duration="1091000" />
       <workItem from="1582559594109" duration="1211000" />
       <workItem from="1583666818399" duration="429000" />
-      <workItem from="1583667367839" duration="2846000" />
+      <workItem from="1583667367839" duration="12807000" />
     </task>
     <task id="LOCAL-00001" summary="upload">
       <created>1583667676930</created>
@@ -119,22 +128,26 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="267" y="0" key="CommitChangelistDialog2/0.0.1366.768/-295.-1080.1920.1080@0.0.1366.768" timestamp="1583667664805" />
-    <state width="656" height="173" key="GridCell.Tab.0.bottom" timestamp="1579734837122">
+    <state width="1339" height="173" key="GridCell.Tab.0.bottom" timestamp="1583711924695">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="656" height="173" key="GridCell.Tab.0.bottom/0.0.1360.768@0.0.1360.768" timestamp="1579734837122" />
-    <state width="656" height="173" key="GridCell.Tab.0.center" timestamp="1579734837122">
+    <state width="1339" height="173" key="GridCell.Tab.0.bottom/0.0.1360.768@0.0.1360.768" timestamp="1583711924695" />
+    <state width="1339" height="173" key="GridCell.Tab.0.center" timestamp="1583711924695">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="656" height="173" key="GridCell.Tab.0.center/0.0.1360.768@0.0.1360.768" timestamp="1579734837122" />
-    <state width="656" height="173" key="GridCell.Tab.0.left" timestamp="1579734837122">
+    <state width="1339" height="173" key="GridCell.Tab.0.center/0.0.1360.768@0.0.1360.768" timestamp="1583711924695" />
+    <state width="1339" height="173" key="GridCell.Tab.0.left" timestamp="1583711924695">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="656" height="173" key="GridCell.Tab.0.left/0.0.1360.768@0.0.1360.768" timestamp="1579734837122" />
-    <state width="656" height="173" key="GridCell.Tab.0.right" timestamp="1579734837122">
+    <state width="1339" height="173" key="GridCell.Tab.0.left/0.0.1360.768@0.0.1360.768" timestamp="1583711924695" />
+    <state width="1339" height="173" key="GridCell.Tab.0.right" timestamp="1583711924695">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state width="656" height="173" key="GridCell.Tab.0.right/0.0.1360.768@0.0.1360.768" timestamp="1579734837122" />
+    <state width="1339" height="173" key="GridCell.Tab.0.right/0.0.1360.768@0.0.1360.768" timestamp="1583711924695" />
+    <state x="362" y="29" key="SettingsEditor" timestamp="1583703613130">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="362" y="29" key="SettingsEditor/0.0.1360.768@0.0.1360.768" timestamp="1583703613130" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1581352489690">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
