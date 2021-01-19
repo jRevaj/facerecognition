@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/facerecognitionbrain.iml" filepath="$PROJECT_DIR$/.idea/facerecognitionbrain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../smart-brain-api/.idea/smart-brain-api.iml" filepath="$PROJECT_DIR$/../smart-brain-api/.idea/smart-brain-api.iml" />
     </modules>
   </component>
 </project>

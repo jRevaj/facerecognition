@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05932696-5e85-4f91-8f7f-bc3433104532" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../smart-brain-api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../smart-brain-api/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/facerecognitionbrain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/facerecognitionbrain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/rank/rank.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/rank/rank.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/register/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/register/register.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/signin/signin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/signin/signin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,19 +20,19 @@
         <option value="jRevaj &lt;jrevaj@users.noreply.github.com&gt;" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../smart-brain-api" />
   </component>
   <component name="ProjectId" id="1WkoY08nBgxUlvYHNHEEIYfdp2V" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/logo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../smart-brain-api" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,13 +43,14 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="ts.external.directory.path" value="C:\Programy\WebStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dzura\Desktop\Web_Developer_Course\facerecognitionbrain\src\components\logo" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.npm start">
+  <component name="RunManager" selected="npm.start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -62,19 +64,23 @@
       <envs />
       <method v="2" />
     </configuration>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/../smart-brain-api/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
       <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
+        <item itemvalue="npm.start" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -98,7 +104,10 @@
       <workItem from="1584727487778" duration="2473000" />
       <workItem from="1584779039358" duration="10909000" />
       <workItem from="1584960799880" duration="810000" />
-      <workItem from="1585132552032" duration="5898000" />
+      <workItem from="1585132552032" duration="6407000" />
+      <workItem from="1588450320030" duration="2936000" />
+      <workItem from="1588503551300" duration="604000" />
+      <workItem from="1611078093837" duration="724000" />
     </task>
     <task id="LOCAL-00001" summary="upload">
       <created>1583667676930</created>
@@ -107,64 +116,22 @@
       <option name="project" value="LOCAL" />
       <updated>1583667676930</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="final update">
+      <created>1585144283890</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585144283890</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="274" y="42" key="#Deployment" timestamp="1583667616291">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="274" y="42" key="#Deployment/0.0.1366.768/-295.-1080.1920.1080@0.0.1366.768" timestamp="1583667616291" />
-    <state x="275" y="42" key="#ESLint" timestamp="1585138423896">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="275" y="42" key="#ESLint/0.0.1366.768/-295.-1080.1920.1080@0.0.1366.768" timestamp="1585138423896" />
-    <state x="363" y="120" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583667229378">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="363" y="120" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.768/-295.-1080.1920.1080@0.0.1366.768" timestamp="1583667229378" />
-    <state x="750" y="135" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579707088252">
-      <screen x="0" y="0" width="1360" height="768" />
-    </state>
-    <state x="750" y="135" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.768@0.0.1360.768" timestamp="1579707088252" />
-    <state x="267" y="0" key="CommitChangelistDialog2" timestamp="1583667664805">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="267" y="0" key="CommitChangelistDialog2/0.0.1366.768/-295.-1080.1920.1080@0.0.1366.768" timestamp="1583667664805" />
-    <state width="1339" height="173" key="GridCell.Tab.0.bottom" timestamp="1583711924695">
-      <screen x="0" y="0" width="1360" height="768" />
-    </state>
-    <state width="1339" height="173" key="GridCell.Tab.0.bottom/0.0.1360.768@0.0.1360.768" timestamp="1583711924695" />
-    <state width="1339" height="173" key="GridCell.Tab.0.center" timestamp="1583711924695">
-      <screen x="0" y="0" width="1360" height="768" />
-    </state>
-    <state width="1339" height="173" key="GridCell.Tab.0.center/0.0.1360.768@0.0.1360.768" timestamp="1583711924695" />
-    <state width="1339" height="173" key="GridCell.Tab.0.left" timestamp="1583711924695">
-      <screen x="0" y="0" width="1360" height="768" />
-    </state>
-    <state width="1339" height="173" key="GridCell.Tab.0.left/0.0.1360.768@0.0.1360.768" timestamp="1583711924695" />
-    <state width="1339" height="173" key="GridCell.Tab.0.right" timestamp="1583711924695">
-      <screen x="0" y="0" width="1360" height="768" />
-    </state>
-    <state width="1339" height="173" key="GridCell.Tab.0.right/0.0.1360.768@0.0.1360.768" timestamp="1583711924695" />
-    <state x="362" y="29" key="SettingsEditor" timestamp="1583703613130">
-      <screen x="0" y="0" width="1360" height="768" />
-    </state>
-    <state x="362" y="29" key="SettingsEditor/0.0.1360.768@0.0.1360.768" timestamp="1583703613130" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1581352489690">
-      <screen x="0" y="0" width="1360" height="768" />
-    </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1360.768@0.0.1360.768" timestamp="1581352489690" />
-    <state x="0" y="0" key="Vcs.Push.Dialog.v2" timestamp="1583667694980">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="0" y="0" key="Vcs.Push.Dialog.v2/0.0.1366.768/-295.-1080.1920.1080@0.0.1366.768" timestamp="1583667694980" />
+    <MESSAGE value="final update" />
+    <option name="LAST_COMMIT_MESSAGE" value="final update" />
   </component>
 </project>
